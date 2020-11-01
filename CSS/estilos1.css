@@ -1,0 +1,27 @@
+body{
+	text-align:center;
+	background-image:url(../Imagenes/fondo2.jpg);
+}
+
+h1{
+	color:#4B0082;
+}
+
+.boton{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 100;
+    font-size: 30px;
+    color: #ffffff;
+    background-color: #A615CD;
+    border-radius: 6px;
+    border: 2px solid #8515CD;
+  }
+  .boton:hover{
+    color: #A615CD;
+    background-color: #ffffff;
+  }
+  
+.vinculo{
+	font-size:30px;
+}

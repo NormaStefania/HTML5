@@ -1,0 +1,40 @@
+
+body{
+	border-left-color: #27C9E3;
+	border-right-color: #27C9E3;
+	border-width: 220px;
+	border-style: groove;
+	border-top-width:0px;
+	border-bottom-width:0px;
+}
+
+img{
+	height:200;
+	width:200;
+}
+
+h1{
+	text-align:center;
+}
+
+h2{
+	text-align:center;
+}
+
+p{
+	text-align:justify;
+	font-size:20px;
+}
+
+ul{
+	font-size:20px;
+}
+
+.ligas{
+	text-align:center;
+	font-size:25px;
+}
+
+table{
+	border:2px solid;
+}
